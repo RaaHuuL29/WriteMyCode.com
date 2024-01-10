@@ -1,0 +1,16 @@
+{
+  "name": "writemycode.com",
+  "version": "1.0.0",
+  "description": "A Freelancing Platform for Software Engineers",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Rahul Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
